@@ -16,11 +16,15 @@ I am a Full Stack Developer in the Solana space
 
 - 🍎 I'm currently working towards finishing my degree in Computer Science.
 - 🔭 I work as a Software Developer and contributing to front and backend for building web3 Dapp's.
-- 🐕 I'm part of the development team for Woof Solana.
-- 🤖 I also am a front-end developer for an upcoming $AVAX project Alpha Mecha DAO.
-- ⚡ Outside of these i also work with the Project @TheChibbens where i focus on community building.
+- 🐕 I'm part of the development team for Woof Solana. 
+<a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"/>
+- 🤖 I also am a front-end developer for the $AVAX project Alpha Mecha DAO. 
+<a href="https://twitter.com/AlphaMechaDAO">  <img src="https://img.shields.io/twitter/follow/AlphaMechaDAO?style=social"/>
+- ⚡ Alongside these i also work with the Project @TheChibbens where i focus on community building.
+<a href="https://twitter.com/TheChibbens">  <img src="https://img.shields.io/twitter/follow/TheChibbens?style=social"/>
 
 ---
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
