@@ -2,7 +2,8 @@
 
 
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/841779181003866164/955727921744592946/dev_working_meme.gif" width="150"/>
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/959598642837200946/962667122637541426/GOATGOAED.gif" width="150"/>
 <p align="center">
 <a href="https://twitter.com/goatgodgav">  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
@@ -10,7 +11,7 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer in the Solana space
 
@@ -45,11 +46,14 @@ I am a Full Stack Developer in the Solana space
 
 ---
 
+  
 ### 🔥 &nbsp; My Streaks :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GoatGodGav&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
 ---
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/841779181003866164/955727921744592946/dev_working_meme.gif" width="300"/>
 
 
