@@ -19,8 +19,6 @@ I am a Full Stack Blockchain Developer in the Solana space
 - 🔭 I work as a Blockchain Developer and contributing to front and backend on web3 Dapp's.
 - ⌚ I currently am the lead developer for Floatgame. 
 <a href="https://twitter.com/floatgame_io"><img src="https://img.shields.io/twitter/follow/floatgame_io?style=social"></a>
-- 🐕 I'm part of the development team for Woof Solana.
-<a href="https://twitter.com/WoofSolana">  <img src="https://img.shields.io/twitter/follow/woofsolana?style=social"></a>
 - 📚 Along side these i have helped with other small web3 startups including The Chibbens and Alpha Mecha DAO
 
 
