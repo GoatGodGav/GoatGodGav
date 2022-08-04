@@ -19,8 +19,7 @@ I am a Full Stack Blockchain Developer in the Solana space
 - 🔭 I work as a Blockchain Developer and contributing to front and backend on web3 Dapp's.
 - ⌚ I currently am the lead developer for Horodex. 
 <a href="https://twitter.com/Horodexapp"><img src="https://img.shields.io/twitter/follow/Horodexapp?style=social"></a>
-- 📚 Along side these i have helped several other small web3 startups
-
+- 📚 Along side these I have helped several other small web3 startups and projects
 
 ---
 
