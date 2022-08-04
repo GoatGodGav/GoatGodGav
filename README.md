@@ -17,9 +17,9 @@ I am a Full Stack Blockchain Developer in the Solana space
 
 - 🍎 I'm currently working towards finishing my degree in Computer Science.
 - 🔭 I work as a Blockchain Developer and contributing to front and backend on web3 Dapp's.
-- ⌚ I currently am the lead developer for Floatgame. 
-<a href="https://twitter.com/floatgame_io"><img src="https://img.shields.io/twitter/follow/floatgame_io?style=social"></a>
-- 📚 Along side these i have helped with other small web3 startups including The Chibbens and Alpha Mecha DAO
+- ⌚ I currently am the lead developer for Horodex. 
+<a href="https://twitter.com/Horodexapp"><img src="https://img.shields.io/twitter/follow/Horodexapp?style=social"></a>
+- 📚 Along side these i have helped several other small web3 startups
 
 
 ---
