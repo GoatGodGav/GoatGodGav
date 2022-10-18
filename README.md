@@ -3,7 +3,6 @@
 
 
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/959598642837200946/962667122637541426/GOATGOAED.gif" width="150"/>
 <p align="center">
 <a href="https://twitter.com/goatgodgav">  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </p>
