@@ -16,9 +16,6 @@ I am a Full Stack Blockchain Developer in the Solana space
 
 - 🍎 I'm currently working towards finishing my degree in Computer Science.
 - 🔭 I work as a Blockchain Developer and contributing to front and backend on web3 Dapp's.
-- ⌚ I currently am the lead developer for Horodex. 
-<a href="https://twitter.com/Horodexapp"><img src="https://img.shields.io/twitter/follow/Horodexapp?style=social"></a>
-- 📚 Along side these I have helped several other small web3 startups and projects
 
 ---
 
@@ -51,8 +48,5 @@ I am a Full Stack Blockchain Developer in the Solana space
 
 
 
----
-
-<p align="center"><img src="https://cdn.discordapp.com/attachments/841779181003866164/955727921744592946/dev_working_meme.gif" width="300"/>
 
 
