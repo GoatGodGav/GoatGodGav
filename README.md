@@ -44,7 +44,7 @@ I am a Full Stack Blockchain Developer in the Solana space
 
   
 ### 🔥 &nbsp; My Streaks :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GoatGodGav&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GoatGodXBT&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
